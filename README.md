@@ -1,0 +1,1 @@
+# TeleStat-Client-Rus-WinXP-7x32-10x64
