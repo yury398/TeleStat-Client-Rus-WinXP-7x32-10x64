@@ -1,0 +1,5 @@
+<CONFIG>
+	<Server>192.168.54.157</Server>
+	<Database>PhoneStat</Database>
+	<ConnectionString>Data Source=%srv;Initial Catalog=%db;Persist Security Info=True;User ID=Obluser;PASSWORD=Obluser</ConnectionString>
+</CONFIG>
