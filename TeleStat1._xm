@@ -1,0 +1,10 @@
+<CONFIG>
+	<Server>192.168.57.1</Server>
+	<Database>PhoneStat</Database>
+	<UID>OblUser</UID>
+	<PWD>OblUser</PWD>
+	<ConnectionString1>Trusted_Connection=yes;Database=%db;Server=%srv</ConnectionString1>
+	<ConnectionString2>Initial Catalog=%db;Server=%srv;UID=OblUser;PWD=OblUser</ConnectionString2>
+	<ConnectionStringC>Data Source=192.168.57.1;Initial Catalog=PhoneStat;Persist Security Info=True;User ID=OblUser</ConnectionStringC>
+	<ConnectionString>Initial Catalog=%db;Server=%srv</ConnectionString>
+</CONFIG>
